@@ -1,5 +1,6 @@
 # GeoCalibur
 Version protorev-00
+
 DLC-quality Freelancer Addon for Discovery Mod - GeoCalibur Industries
 
 This is an Attempt at a non-flmod addon for Freelancer, this uses the latest offical build of Discovery Freelancer (4.88.1 as of this writing).
