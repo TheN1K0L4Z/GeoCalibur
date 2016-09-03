@@ -19,6 +19,7 @@ D:\Users\Nick\AppData\Local\
 
 Folders:
 "Discovery Freelancer 4.88.1"
+
 "Discovery Freelancer 4.88.1-N1" (replace content in here)
 
 Your directory for Disco may differ, but keep the instances in one directory.
