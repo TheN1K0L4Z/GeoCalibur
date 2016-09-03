@@ -1,0 +1,13 @@
+The following files must be added from adoxa's site:
+
+http://adoxa.altervista.org/freelancer/index.html
+
+Plugins .\EXE\:
+jflp.dll v1.12 - included in release, since 1.20 was all I could find from him and it crashed my game at startup.
+numeric.dll
+criticalhit.dll
+ranks.dll - optional, unless you want a Halo-fied ranking system.
+
+BIN Plugins.\DLLS\BIN\:
+callsign.dll - optional but needed for immersion.
+MatchJob.dll - needed to scale mission difficulty.
